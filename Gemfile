@@ -73,7 +73,7 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'faker', '~> 1.4.3'
   gem 'mina'
-  gem 'mina-slack', github: 'peatio/mina-slack'
+  gem 'mina-slack', github: 'InfraexDev/mina-slack'
   gem 'meta_request'
   gem 'better_errors'
   gem 'binding_of_caller'
