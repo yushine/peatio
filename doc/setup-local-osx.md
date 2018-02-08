@@ -28,8 +28,8 @@ Add rbenv to bash so that it loads every time you open a terminal
 
 Install Ruby and set it as the default version
 
-    rbenv install 2.2.1
-    rbenv global 2.2.1
+    rbenv install 2.2.2
+    rbenv global 2.2.2
 
     ruby -v
 
