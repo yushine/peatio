@@ -164,7 +164,7 @@ GEM
     globalize (4.0.3)
       activemodel (>= 4.0.0, < 5)
       activerecord (>= 4.0.0, < 5)
-    gon (5.2.3)
+    gon (5.2.0)
       actionpack (>= 2.3.0)
       json
       multi_json
